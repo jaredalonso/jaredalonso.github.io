@@ -1,0 +1,19 @@
+body{
+	background-color: antiquewhite;
+	margin: 0;
+}
+
+
+header{
+	display: flex;
+	height: 95px;
+	justify-content: space-between;
+align-items: center;
+padding: 45px;
+background-color: darkgoldenrod;
+
+}
+a.logo{
+	display: flex;
+	align-items: center;
+}
